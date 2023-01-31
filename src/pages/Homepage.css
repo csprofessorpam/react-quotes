@@ -1,0 +1,21 @@
+.homepage-container{
+    width: 50%;
+    border-radius: 8px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 30px;
+   
+}
+
+.homepage-container button{
+    margin: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color:cornflowerblue;
+    color: white;
+    font-size: 20pt;
+    padding: 10px;
+}
